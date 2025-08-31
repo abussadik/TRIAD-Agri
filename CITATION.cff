@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "An Integrated AI–IoT–Blockchain Architecture for Resource Efficiency and Compliance in Tropical Plantation Supply Chains"
+authors:
+  - family-names: <Surname>
+    given-names: <Given-Name>
+  - family-names: <Surname2>
+    given-names: <Given-Name2>
+date-released: 2025-08-31
+keywords: [AI, IoT, Blockchain, Agribusiness, Palm oil, Rubber, Traceability, EUDR]
+license: MIT
+repository-code: "https://github.com/<org>/triad-agri"
+preferred-citation:
+  type: article
+  title: "An Integrated AI–IoT–Blockchain Architecture for Resource Efficiency and Compliance in Tropical Plantation Supply Chains"
+  authors:
+    - family-names: <Surname>
+      given-names: <Given-Name>
+  journal: "<Target Conference/Journal>"
+  year: 2025

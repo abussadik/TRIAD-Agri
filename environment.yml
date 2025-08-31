@@ -1,0 +1,12 @@
+name: triad-agri
+channels: [conda-forge, defaults]
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - pillow
+  - pip
+  - pip:
+    - python-pptx
